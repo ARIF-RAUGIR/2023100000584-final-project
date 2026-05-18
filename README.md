@@ -13,7 +13,7 @@
 External penetration testing assessment simulation conducted for PosBuzz Retail Solutions against authorized TryHackMe environments.
 
 ## Repository Structure
-
+```
 2023100000584-final-project/
 ├── README.md
 ├── reconnaissance/
@@ -24,7 +24,7 @@ External penetration testing assessment simulation conducted for PosBuzz Retail 
 │   └── blue-room-summary.md
 ├── screenshots/
 └── final-report.pdf
-
+```
 ## Assigned Rooms
 
 | Room | Purpose |
